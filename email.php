@@ -30,3 +30,4 @@ else
 	// Transfer the value 'failed' to ajax function for showing error message.
 	echo 'failed';
 }
+?>

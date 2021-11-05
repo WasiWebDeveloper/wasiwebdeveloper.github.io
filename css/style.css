@@ -2544,6 +2544,10 @@ header.smaller.scroll-light div#logo a {
 	font-weight: 600;
 	color: #35404e;
 }
+	header div#logo a{
+		font-size: 40px;
+		color: var(--primary-color) !important;
+	}
 footer h1, footer h2, footer h4, footer h4, footer h5, footer h6 {
 	color: #fff;
 }
@@ -10349,6 +10353,7 @@ a, img {
 	}
 	header div#logo {
 		line-height:32px;
+		
 	}
 	header {
 		display: none;
